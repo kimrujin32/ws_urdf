@@ -1,0 +1,1 @@
+/home/robot/ws_urdf/build/urdf_test/ament_cmake_core/urdf_testConfig.cmake

@@ -1,0 +1,24 @@
+[0.010s] Invoking command in '/home/robot/ws_urdf/build/urdf_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/robot/ws_urdf/build/urdf_test -- -j8 -l8
+[0.037s] Invoked command in '/home/robot/ws_urdf/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/robot/ws_urdf/build/urdf_test -- -j8 -l8
+[0.057s] Invoking command in '/home/robot/ws_urdf/build/urdf_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/robot/ws_urdf/build/urdf_test
+[0.062s] -- Install configuration: ""
+[0.063s] -- Execute custom install script
+[0.063s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/launch/display.launch.py
+[0.063s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/launch/first.launch.py
+[0.069s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/urdf/model.urdf
+[0.069s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/ament_index/resource_index/package_run_dependencies/urdf_test
+[0.069s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/ament_index/resource_index/parent_prefix_path/urdf_test
+[0.069s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/ament_prefix_path.sh
+[0.069s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/ament_prefix_path.dsv
+[0.069s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/path.sh
+[0.070s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/path.dsv
+[0.070s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.bash
+[0.070s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.sh
+[0.070s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.zsh
+[0.070s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.dsv
+[0.070s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/package.dsv
+[0.076s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/ament_index/resource_index/packages/urdf_test
+[0.076s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/cmake/urdf_testConfig.cmake
+[0.076s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/cmake/urdf_testConfig-version.cmake
+[0.076s] -- Up-to-date symlink: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/package.xml
+[0.077s] Invoked command in '/home/robot/ws_urdf/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/robot/ws_urdf/build/urdf_test

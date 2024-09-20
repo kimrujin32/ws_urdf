@@ -1,0 +1,48 @@
+[0.009s] Invoking command in '/home/robot/ws_urdf/build/urdf_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake /home/robot/ws_urdf/src/urdf_test -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robot/ws_urdf/install/urdf_test
+[0.048s] -- The C compiler identification is GNU 11.4.0
+[0.085s] -- The CXX compiler identification is GNU 11.4.0
+[0.090s] -- Detecting C compiler ABI info
+[0.152s] -- Detecting C compiler ABI info - done
+[0.159s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.159s] -- Detecting C compile features
+[0.159s] -- Detecting C compile features - done
+[0.162s] -- Detecting CXX compiler ABI info
+[0.217s] -- Detecting CXX compiler ABI info - done
+[0.222s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.222s] -- Detecting CXX compile features
+[0.223s] -- Detecting CXX compile features - done
+[0.226s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.348s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.391s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.427s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.490s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.491s] -- Added test 'lint_cmake' to check CMake code style
+[0.491s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.492s] -- Added test 'xmllint' to check XML markup files
+[0.493s] -- Configuring done
+[0.495s] -- Generating done
+[0.495s] -- Build files have been written to: /home/robot/ws_urdf/build/urdf_test
+[0.499s] Invoked command in '/home/robot/ws_urdf/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake /home/robot/ws_urdf/src/urdf_test -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/robot/ws_urdf/install/urdf_test
+[0.500s] Invoking command in '/home/robot/ws_urdf/build/urdf_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/robot/ws_urdf/build/urdf_test -- -j8 -l8
+[0.527s] Invoked command in '/home/robot/ws_urdf/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --build /home/robot/ws_urdf/build/urdf_test -- -j8 -l8
+[0.557s] Invoking command in '/home/robot/ws_urdf/build/urdf_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/robot/ws_urdf/build/urdf_test
+[0.563s] -- Install configuration: ""
+[0.563s] -- Execute custom install script
+[0.563s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/launch/display.launch.py
+[0.573s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/urdf/model.urdf
+[0.585s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/ament_index/resource_index/package_run_dependencies/urdf_test
+[0.594s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/ament_index/resource_index/parent_prefix_path/urdf_test
+[0.599s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/ament_prefix_path.sh
+[0.605s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/ament_prefix_path.dsv
+[0.611s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/path.sh
+[0.617s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/environment/path.dsv
+[0.622s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.bash
+[0.629s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.sh
+[0.636s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.zsh
+[0.642s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/local_setup.dsv
+[0.649s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/package.dsv
+[0.656s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/ament_index/resource_index/packages/urdf_test
+[0.663s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/cmake/urdf_testConfig.cmake
+[0.668s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/cmake/urdf_testConfig-version.cmake
+[0.674s] -- Symlinking: /home/robot/ws_urdf/install/urdf_test/share/urdf_test/package.xml
+[0.681s] Invoked command in '/home/robot/ws_urdf/build/urdf_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/robot/ws_arm/install/car_tutorial:/home/robot/ws_arm/install/arm_tutorial:/home/robot/ws_car/install/car_tutorial:/root/turtlebot3_ws/install/turtlebot3_teleop:/root/turtlebot3_ws/install/turtlebot3_example:/root/monicar2_ws/install/monicar2_teleop:/root/monicar2_ws/install/monicar2_localization:/root/monicar2_ws/install/monicar2_imuconverter:/root/monicar2_ws/install/monicar2_bringup:/root/ws_robot/install/urdf_tutorial:/opt/ros/humble /usr/bin/cmake --install /home/robot/ws_urdf/build/urdf_test
